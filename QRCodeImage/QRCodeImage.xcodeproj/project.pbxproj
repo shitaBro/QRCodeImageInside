@@ -22,7 +22,7 @@
 		D81539FF1D65AD1200A113B7 /* rscode.c in Sources */ = {isa = PBXBuildFile; fileRef = D81539F51D65AD1200A113B7 /* rscode.c */; };
 		D8153A001D65AD1200A113B7 /* split.c in Sources */ = {isa = PBXBuildFile; fileRef = D81539F71D65AD1200A113B7 /* split.c */; };
 		D8153A021D65AF9F00A113B7 /* super.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D8153A011D65AF9F00A113B7 /* super.jpg */; };
-		D8153A041D65B82300A113B7 /* QRCode.png in Resources */ = {isa = PBXBuildFile; fileRef = D8153A031D65B82300A113B7 /* QRCode.png */; };
+		D8153A061D65BDB800A113B7 /* QRCode@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D8153A051D65BDB800A113B7 /* QRCode@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,7 +53,7 @@
 		D81539F71D65AD1200A113B7 /* split.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = split.c; sourceTree = "<group>"; };
 		D81539F81D65AD1200A113B7 /* split.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = split.h; sourceTree = "<group>"; };
 		D8153A011D65AF9F00A113B7 /* super.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = super.jpg; sourceTree = "<group>"; };
-		D8153A031D65B82300A113B7 /* QRCode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = QRCode.png; sourceTree = "<group>"; };
+		D8153A051D65BDB800A113B7 /* QRCode@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QRCode@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,7 +91,7 @@
 				D81539D51D65ACC700A113B7 /* AppDelegate.m */,
 				D81539D71D65ACC700A113B7 /* ViewController.h */,
 				D81539D81D65ACC700A113B7 /* ViewController.m */,
-				D8153A031D65B82300A113B7 /* QRCode.png */,
+				D8153A051D65BDB800A113B7 /* QRCode@2x.png */,
 				D8153A011D65AF9F00A113B7 /* super.jpg */,
 				D81539DA1D65ACC700A113B7 /* Main.storyboard */,
 				D81539DD1D65ACC700A113B7 /* Assets.xcassets */,
@@ -191,9 +191,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				D81539E11D65ACC700A113B7 /* LaunchScreen.storyboard in Resources */,
-				D8153A041D65B82300A113B7 /* QRCode.png in Resources */,
 				D81539DE1D65ACC700A113B7 /* Assets.xcassets in Resources */,
 				D81539DC1D65ACC700A113B7 /* Main.storyboard in Resources */,
+				D8153A061D65BDB800A113B7 /* QRCode@2x.png in Resources */,
 				D8153A021D65AF9F00A113B7 /* super.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
